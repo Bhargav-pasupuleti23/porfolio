@@ -314,7 +314,7 @@ font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }  
 
-@media   screen and (max-width:390px) {
+@media   screen and (max-width:600px) {
     body,html{
         background: rgb(29, 26, 26);
         width: 100%;
