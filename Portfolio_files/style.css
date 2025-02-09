@@ -566,7 +566,7 @@ label {
         height: 90vh;
         display: flex;
         flex-direction: column-reverse;
-        margin-top: 30px;
+        margin-top: 50px;
         margin-bottom: 10px;
     }
 
@@ -620,10 +620,11 @@ label {
 }
 
 .PARA {
-    margin-top: 5px;
+    margin-top: 3px;
     font-size: 14px;
     padding: 9px;
     text-align: justify;
+box-shadow:none;
 }
 
 .container {
